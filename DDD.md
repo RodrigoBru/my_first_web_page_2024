@@ -17,19 +17,10 @@ Para finalizar la última complicación que he apreciado es que al final tuve qu
 cada vez que agregué una nueva página web HTML. Porque al principio no me di cuenta de que había que hacerlo
 
 Todas estas dificultades han podido ser resueltas gracias a la profunda investigación que he realizado en internet y
-en la buena documentación que se encuentra en el canvas. Como por ejemplo me he ayudado de algunas presentaciones del
-canvas como en la ejecución del formulario de contacto en el apartado contact.html.
-
-Pero es cierto que también ha habido otras complicaciones las cuales superan mis conocimientos y las cuales no he podido
-superar. Las cuales son la limpieza y presentación de la página web. Como, por ejemplo: No he podido insertar todas las 
-asignaturas del grado ya que era demasiado texto y no aparecía el listado de las asignaturas de los años 3 y 4.
+en la buena documentación que se encuentra en el canvas. Como por ejemplo me he ayudado de algunas presentaciones del canvas como en la ejecución del formulario de contacto en el apartado contact.html.
 
 Algunas de las conclusiones que he podido sacar de la realización de la página web es que me he dado cuenta de que
 disfruto del mundo de la informática ya que me parece interesante lo amplio que es este mundo y de lo mucho que se 
 puede aprender.
 
-También me parece interesante de la informática que está continuamente en desarrollo y siempre puedes crear innovaciones
-y aprender algo nuevo cada día. Otra conclusión más centrada en lo que es del propio trabajo es que nunca hay que
-rendirse y que todo tiene solución ya que la gran mayoría de las dificultades que se me han presentado durante este
-trabajo las he podido solucionar por mi mismo, mediante investigación tanto en internet como en las presentaciones
-publicadas en Canvas.
+También me parece interesante de la informática que está continuamente en desarrollo y siempre puedes crear innovaciones y aprender algo nuevo cada día. Otra conclusión más centrada en lo que es del propio trabajo es que nunca hay que rendirse y que todo tiene solución ya que la gran mayoría de las dificultades que se me han presentado durante este trabajo las he podido solucionar por mi mismo, mediante investigación tanto en internet como en las presentaciones publicadas en Canvas.
